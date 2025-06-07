@@ -58,4 +58,4 @@ A sleek, interactive, and modern personal portfolio to showcase my work, skills,
 
 ---
 
-Made with 🚀 by **Vishwabhishek**
+Made with 🚀 by **Abhishek**
